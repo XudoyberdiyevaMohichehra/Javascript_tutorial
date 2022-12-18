@@ -33,11 +33,12 @@ function getFull() {
 //   getFull.bind(user, "hey")();
 // md()
   
-  for (let usr of users) {
+//   for (let usr of users) {
     // getFull.call(usr);
     // getFull.apply(usr);
-    getFull.bind(usr)();
-  }
+//     getFull.bind(usr)();
+//   }
+
   
   // getFull.call({ name: "webbrain", lastname: "Academy" });
   // user2.getFull();
