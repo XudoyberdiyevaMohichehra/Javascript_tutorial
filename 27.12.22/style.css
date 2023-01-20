@@ -1,0 +1,11 @@
+.parent{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    box-shadow: 0 0 10px black ;
+    margin: 100px;
+    overflow:auto;
+}
+#border{
+    border: 2px solid red;
+}
